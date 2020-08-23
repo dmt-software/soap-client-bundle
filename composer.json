@@ -1,0 +1,20 @@
+{
+    "name": "dmt-software/soap-client-bundle",
+    "description": "Bundle for creating soap client interfaces",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "dmt-software/command-bus-validator": "^1.0",
+        "dmt-software/jms-soap-serializer": "^2.1",
+        "jms/serializer": "^3.8",
+        "league/tactician": "^1.0",
+        "symfony/validator": "^4.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bas de Mes",
+            "email": "bas@dmt-software.nl"
+        }
+    ]
+}
