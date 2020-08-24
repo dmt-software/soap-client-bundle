@@ -61,16 +61,16 @@
         },
         {
             "name": "dmt-software/jms-soap-serializer",
-            "version": "v2.1.2",
+            "version": "v2.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dmt-software/jms-soap-serializer.git",
-                "reference": "7877dec41d6d3a609687c2b91c2ae961eb3acd6f"
+                "reference": "1d87283a7327e7eb11f10b8cbc9fa4d00892561a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dmt-software/jms-soap-serializer/zipball/7877dec41d6d3a609687c2b91c2ae961eb3acd6f",
-                "reference": "7877dec41d6d3a609687c2b91c2ae961eb3acd6f",
+                "url": "https://api.github.com/repos/dmt-software/jms-soap-serializer/zipball/1d87283a7327e7eb11f10b8cbc9fa4d00892561a",
+                "reference": "1d87283a7327e7eb11f10b8cbc9fa4d00892561a",
                 "shasum": ""
             },
             "require": {
@@ -101,7 +101,7 @@
                 }
             ],
             "description": "JMS serialize visitor that (de)serializes SOAP requests/responses",
-            "time": "2020-03-22T11:41:04+00:00"
+            "time": "2020-08-24T10:30:07+00:00"
         },
         {
             "name": "doctrine/annotations",
