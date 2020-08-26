@@ -8,7 +8,7 @@
         "dmt-software/jms-soap-serializer": "^2.1",
         "jms/serializer": "^3.8",
         "league/tactician": "^1.0",
-        "symfony/validator": "^4.3"
+        "symfony/validator": "^4.3|^5.1"
     },
     "license": "MIT",
     "authors": [
